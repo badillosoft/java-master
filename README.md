@@ -19,6 +19,7 @@ Alan Badillo Salas <badillo.soft@hotmail.com>
 `Nombre Completo` de tipo `String`, `Edad` de tipo `Entero`, `Estatura` de tipo `Flotante` y `Peso` de tipo `Doble`.
 
 Mostrar los datos con el siguiente formato reemplazando los valores de las comillas por los ingresados:
+
   Nombre: `John Doe`| Edad: `34` | Estatura: `1.80`m | Peso: `56`kg
   
 * Crear un programa que lea los bytes de un archivo mediante las clases `FileInputStream` y `BufferInputStream`.
