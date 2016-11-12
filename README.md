@@ -28,3 +28,7 @@ El programa deberá mostrar para cada byte leido si es par o impar (puede utiliz
 * Leer las notas disponibles en la carpeta de material [El modelo OSI y los protocolos de red](https://github.com/badillosoft/java-master/blob/master/material/Redes%20con%20Java%20-%20El%20modelo%20OSI%20y%20Protocolos%20de%20Red.pdf) y escribir que es un protocolo de red y en que consiste cada una de las 7 capas del modelo OSI.
 
 * Crear la clase `Mensaje` que contenga un _string_ llamado `Contenido` y un _booleano_ llamado `Visto`. Transmitir el mensaje de un cliente al servidor mediante el uso de _sockets_ y las clases de `ObjectStream`.
+
+# importante
+
+## Se suspende la clase y se recorre debido a una operación de gravedad que le realizaran a mi esposa. Mismo motivo por el que no subí tarea esta semana. Estén al pendiente si habrá tarea y un proyecto medio.
