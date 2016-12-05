@@ -12,23 +12,12 @@ Alan Badillo Salas <badillo.soft@hotmail.com>
 ### 6. JAXB (JAVA ARQUITECTURE FOR XML BINDING)
 ### 7. Seguridad
 
-# Tareas
+# Proyecto Final
 
-* Crear un programa que utilice la clase `Scanner` para leer los siguientes datos de una persona:
+Ya está listo el proyecto final, pueden ejecutarlo mediante los archivos `jar` ubicados en la carpeta [Proyecto Final](https://github.com/badillosoft/java-master/tree/master/Proyecto%20Final). La carpeta [ProyectoFinal (incompleto)](https://github.com/badillosoft/java-master/tree/master/ProyectoFinal%20(incompleto)) contiene el proyecto con un montón de comentarios `// TODO: ...` los cuales deben ser resueltos para que el proyecto compile.
 
-`Nombre Completo` de tipo `String`, `Edad` de tipo `Entero`, `Estatura` de tipo `Flotante` y `Peso` de tipo `Doble`.
+Para aprobar el proyecto deben resolver todas las tareas `TODO` y modificar el título de las ventanas `FileServerUI` y `FileClientUI` con su nombre y correo. Luego deberán darle clic secundario al proyecto y en propiedades en la parte de `run` colocar `FileServerUI` como la clase de entrada, luego compilar e ir a la carpeta `.../ruta al proyecto/ProyectoFinal (incompleto)/dist/ProyectoFinal.jar` y copiarlo en otra carpeta con el nombre `ProyectoFinal - Servidor (TU NOMBRE).jar`. El mismo proceso para `FileClientUI`.
 
-Mostrar los datos con el siguiente formato reemplazando los valores de las comillas por los ingresados:
+Los ejecutables generados deberán ser enviados a mi correo badillo.soft@hotmail.com con el título: Proyecto Final. Prueben que ejecuten antes de enviarlos sino no serán tomados en cuenta.
 
-  Nombre: `John Doe`| Edad: `34` | Estatura: `1.80`m | Peso: `56`kg
-  
-* Crear un programa que lea los bytes de un archivo mediante las clases `FileInputStream` y `BufferInputStream`.
-El programa deberá mostrar para cada byte leido si es par o impar (puede utilizar `n % 2 == 0` para checar si un número es par).
-
-* Leer las notas disponibles en la carpeta de material [El modelo OSI y los protocolos de red](https://github.com/badillosoft/java-master/blob/master/material/Redes%20con%20Java%20-%20El%20modelo%20OSI%20y%20Protocolos%20de%20Red.pdf) y escribir que es un protocolo de red y en que consiste cada una de las 7 capas del modelo OSI.
-
-* Crear la clase `Mensaje` que contenga un _string_ llamado `Contenido` y un _booleano_ llamado `Visto`. Transmitir el mensaje de un cliente al servidor mediante el uso de _sockets_ y las clases de `ObjectStream`.
-
-# importante
-
-## Se suspende la clase y se recorre debido a una operación de gravedad que le realizaran a mi esposa. Mismo motivo por el que no subí tarea esta semana. Estén al pendiente si habrá tarea y un proyecto medio.
+Si tienen duda con alguna tarea `TODO` revisen sus notas o manden correo, aunque es probable que conteste hasta el viernes por la noche todas las dudas que puedan tener.
